@@ -1,0 +1,1 @@
+Git is a command driven and open source command, that is used to track the changes in the project and store history of the project.
